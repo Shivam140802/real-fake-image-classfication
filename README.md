@@ -10,9 +10,9 @@ real, 70K fake).
 
 ### Model Files (hosted on Hugging Face)
 
-- [model_1.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/model_1.keras)
-- [model_2.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/model_2.keras)
-- [model_3.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/model_3.keras)
-- [model_4.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/model_4.keras)
-- [model_5.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/model_5.keras)
-- [model_6.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/model_6.keras)
+- [model_1.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/models/model_1.keras)
+- [model_2.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/models/model_2.keras)
+- [model_3.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/models/model_3.keras)
+- [model_4.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/models/model_4.keras)
+- [model_5.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/models/model_5.keras)
+- [model_6.keras](https://huggingface.co/shivammmmmmm/image-classification-models/blob/main/models/model_6.keras)
